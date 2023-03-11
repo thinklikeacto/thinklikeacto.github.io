@@ -11,9 +11,8 @@ I am passionate about leveraging data and analytics to drive innovation and info
 
 ## Skills
 
-<p align="left">
- 
- ### **Technology**
+
+### **Technology**
 I possess extensive technical expertise in software engineering, AI, and ML, allowing me to create and implement advanced technology strategies that enhance business growth and optimize operations. I am dedicated to driving innovation and delivering superior results, whether through building new systems or refining existing ones.<br><br>
 
 ### **Team**
@@ -22,7 +21,6 @@ As a technology leader, I am passionate about mentoring and guiding teams to sol
 ### **Product**
 My strength lies in strategic thinking and planning, which allows me to balance business objectives, market trends, and customer needs. I specialize in driving product innovation and ensuring sustainable long-term business success.<br><br>
 
-</p>
 
 ---
 
