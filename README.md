@@ -12,7 +12,8 @@ I am passionate about leveraging data and analytics to drive innovation and info
 ## Skills
 
 <p align="left">
-### Technology<br>
+ 
+ ### Technology<br>
 I possess extensive technical expertise in software engineering, AI, and ML, allowing me to create and implement advanced technology strategies that enhance business growth and optimize operations. I am dedicated to driving innovation and delivering superior results, whether through building new systems or refining existing ones.<br><br>
 
 ### Team<br>
